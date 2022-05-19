@@ -1,3 +1,1 @@
-# Tomogram Denoising
-
-Using OFD-LPF (Optical Flow Driven Low Pass Filtering).
+# (Optical Flow)-driven 3D denoising
